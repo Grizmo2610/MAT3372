@@ -1,0 +1,34 @@
+Test Array list:
+Test add:
+Book{title='Book1', year=2000, pages=50} Book{title='Book2', year=2001, pages=51} Book{title='Book3', year=2002, pages=52} Book{title='Book4', year=2003, pages=53} Book{title='Book5', year=2004, pages=54} Book{title='Book6', year=2005, pages=55} Book{title='Book7', year=2006, pages=56} Book{title='Book8', year=2007, pages=57} Book{title='Book9', year=2008, pages=58} Book{title='Book10', year=2009, pages=59}
+
+Test Ascending by tittle:
+Book{title='Book1', year=2000, pages=50} Book{title='Book10', year=2009, pages=59} Book{title='Book2', year=2001, pages=51} Book{title='Book3', year=2002, pages=52} Book{title='Book4', year=2003, pages=53} Book{title='Book5', year=2004, pages=54} Book{title='Book6', year=2005, pages=55} Book{title='Book7', year=2006, pages=56} Book{title='Book8', year=2007, pages=57} Book{title='Book9', year=2008, pages=58}
+
+Test Decending by tittle:
+Book{title='Book9', year=2008, pages=58} Book{title='Book8', year=2007, pages=57} Book{title='Book7', year=2006, pages=56} Book{title='Book6', year=2005, pages=55} Book{title='Book5', year=2004, pages=54} Book{title='Book4', year=2003, pages=53} Book{title='Book3', year=2002, pages=52} Book{title='Book2', year=2001, pages=51} Book{title='Book10', year=2009, pages=59} Book{title='Book1', year=2000, pages=50}
+
+Test Ascending by Page nummber:
+Book{title='Book1', year=2000, pages=50} Book{title='Book10', year=2009, pages=59} Book{title='Book2', year=2001, pages=51} Book{title='Book3', year=2002, pages=52} Book{title='Book4', year=2003, pages=53} Book{title='Book5', year=2004, pages=54} Book{title='Book6', year=2005, pages=55} Book{title='Book7', year=2006, pages=56} Book{title='Book8', year=2007, pages=57} Book{title='Book9', year=2008, pages=58}
+
+Test Decending by Page Number:
+Book{title='Book9', year=2008, pages=58} Book{title='Book8', year=2007, pages=57} Book{title='Book7', year=2006, pages=56} Book{title='Book6', year=2005, pages=55} Book{title='Book5', year=2004, pages=54} Book{title='Book4', year=2003, pages=53} Book{title='Book3', year=2002, pages=52} Book{title='Book2', year=2001, pages=51} Book{title='Book10', year=2009, pages=59} Book{title='Book1', year=2000, pages=50}
+
+Test Linked list:
+Test add:
+Book{title='Book1', year=2000, pages=50} Book{title='Book2', year=2001, pages=51} Book{title='Book3', year=2002, pages=52} Book{title='Book4', year=2003, pages=53} Book{title='Book5', year=2004, pages=54} Book{title='Book6', year=2005, pages=55} Book{title='Book7', year=2006, pages=56} Book{title='Book8', year=2007, pages=57} Book{title='Book9', year=2008, pages=58} Book{title='Book10', year=2009, pages=59}
+
+Test Ascending by tittle:
+Book{title='Book1', year=2000, pages=50} Book{title='Book10', year=2009, pages=59} Book{title='Book2', year=2001, pages=51} Book{title='Book3', year=2002, pages=52} Book{title='Book4', year=2003, pages=53} Book{title='Book5', year=2004, pages=54} Book{title='Book6', year=2005, pages=55} Book{title='Book7', year=2006, pages=56} Book{title='Book8', year=2007, pages=57} Book{title='Book9', year=2008, pages=58}
+
+Test Decending by tittle:
+Book{title='Book9', year=2008, pages=58} Book{title='Book8', year=2007, pages=57} Book{title='Book7', year=2006, pages=56} Book{title='Book6', year=2005, pages=55} Book{title='Book5', year=2004, pages=54} Book{title='Book4', year=2003, pages=53} Book{title='Book3', year=2002, pages=52} Book{title='Book2', year=2001, pages=51} Book{title='Book10', year=2009, pages=59} Book{title='Book1', year=2000, pages=50}
+
+Test Ascending by Page nummber:
+Book{title='Book1', year=2000, pages=50} Book{title='Book10', year=2009, pages=59} Book{title='Book2', year=2001, pages=51} Book{title='Book3', year=2002, pages=52} Book{title='Book4', year=2003, pages=53} Book{title='Book5', year=2004, pages=54} Book{title='Book6', year=2005, pages=55} Book{title='Book7', year=2006, pages=56} Book{title='Book8', year=2007, pages=57} Book{title='Book9', year=2008, pages=58}
+
+Test Decending by Page Number:
+Book{title='Book9', year=2008, pages=58} Book{title='Book8', year=2007, pages=57} Book{title='Book7', year=2006, pages=56} Book{title='Book6', year=2005, pages=55} Book{title='Book5', year=2004, pages=54} Book{title='Book4', year=2003, pages=53} Book{title='Book3', year=2002, pages=52} Book{title='Book2', year=2001, pages=51} Book{title='Book10', year=2009, pages=59} Book{title='Book1', year=2000, pages=50}
+
+Test Iterator:
+1 2 3 4 5 6 7 8 9

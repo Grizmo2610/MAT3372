@@ -1,0 +1,51 @@
+Test Array:
+Test add:
+1.0 + 2.0x + 3.0x^2
+
+Test set (1 -> 3):
+3.0 + 2.0x + 3.0x^2
+
+Test plus:
+7.0 + 7.0x + 9.0x^2
+
+Test minus:
+3.0 + 2.0x + 3.0x^2
+
+Test evaluate f(2): 19.0
+Test derivative:
+2.0 + 6.0x
+
+Test multiply:
+12.0 + 23.0x + 40.0x^2
+
+Test List:
+Test add:
+1.0 + 2.0x + 3.0x^2
+
+Test set (1 -> 3):
+3.0 + 2.0x + 3.0x^2
+
+Test plus:
+7.0 + 7.0x + 9.0x^2
+
+Test minus:
+3.0 + 2.0x + 3.0x^2
+
+Test evaluate f(2): 19.0
+Test derivative:
+2.0 + 6.0x
+
+Test multiply:
+12.0 + 23.0x + 40.0x^2 + 27.0x^3 + 18.0x^4
+
+Test RootSolver:
+Polynomial: 2.0 - 3.0x + x^2
+
+Finding root using Bisection:
+Solution of the equation: 1.0
+
+Finding root using NewtonRaphson: 
+Solution of the equation: 2.0
+
+Finding root using Secant:
+Solution of the equation: 1.0
